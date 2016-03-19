@@ -30,6 +30,7 @@ namespace FinalExam
         private void button1_Click(object sender, EventArgs e)
         {
             op.InitialDirectory = "";
+            op.Filter = "Txt files (*.txt)|*.txt|All Files (*.*)|*.*";
             if(op.ShowDialog() == DialogResult.OK)
             {
                 textBox1.Text = op.FileName;
@@ -40,7 +41,7 @@ namespace FinalExam
         {
            using (StreamWriter sw = new StreamWriter(op.FileName))
            {
-               sw.WriteLine(Encrypt.EncryptString(op.FileName,op.FileName));
+               sw.WriteLine(Encrypt.EncryptString(op.InitialDirectory="",op.InitialDirectory=""));
            }      
         }
 
