@@ -1,0 +1,9 @@
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.csprojResolveAssemblyReference.cache
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.Form1.resources
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.Properties.Resources.resources
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.GenerateResource.Cache
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\JHAYBEE\Desktop\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
